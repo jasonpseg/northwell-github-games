@@ -4,5 +4,7 @@ def play_game(input):
         return "You win"
     else:
         return "You lose"
-        
+
+
+if _name_
 

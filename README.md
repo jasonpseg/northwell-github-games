@@ -9,3 +9,5 @@ This fun open source game was cloned from: https://github.com/jakesgordon/javasc
 
 **Author** J J
 **Project** Project 3 : Github games
+
+Unit test added
